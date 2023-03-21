@@ -12,7 +12,7 @@
 4. [使用 OpenAI API 自定义构建](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c) (英文)，[中文翻译](https://blog.acwinds.com/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/2023/03/12/Use-ChatGPT.html)
 5. [使用 OpenAI API 和 GPT Index 使用自定义知识库构建 AI 聊天机器人视频教程](https://www.youtube.com/watch?v=vDZAZuaXf48)
 
-## GPT微调课程
+## GPT课程
 1. [GPT3 和微调核心目标函数——深入探讨](https://www.classcentral.com/classroom/youtube-gpt3-finetuning-the-core-objective-functions-a-deep-dive-126223)
 2. [在 30 分钟内微调一个信息伴侣聊天机器人](https://www.classcentral.com/classroom/youtube-gpt-3-working-session-finetune-an-information-companion-chatbot-in-30-minutes-research-only-126221)
 3. 构建一个 ACOG（人工认知实体）：[第 1 部分](https://www.classcentral.com/classroom/youtube-let-s-build-an-acog-artificial-cognitive-entity-part-1-126216)；[第 2 部分](https://www.classcentral.com/classroom/youtube-let-s-build-an-acog-artificial-cognitive-entity-part-2-126215)
