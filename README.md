@@ -26,6 +26,11 @@
 4. [使用 OpenAI API 自定义构建](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c) (英文)，[中文翻译](https://blog.acwinds.com/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/2023/03/12/Use-ChatGPT.html)
 5. [使用 OpenAI API 和 GPT Index 使用自定义知识库构建 AI 聊天机器人视频教程](https://www.youtube.com/watch?v=vDZAZuaXf48)
 
+## 工具
+- [AIer](https://www.aier.app/)：创建数字分身
+- [markprompt](https://github.com/motifland/markprompt) 
+> 这个项目是一个提供文档查询对话的Web网站，集成了用户系统、客服系统（Plain）、支付系统、统计系统（Fathom）、OpenAI的Embedding和Chat，提供对OpenAI的API二次封装后的API，每个用户可以有单独的Key，这样不会暴露自己的OpenAI Key。
+
 ## 论文合集 
 - 通过使用自然语言反馈进行训练来改进代码生成：[论文](https://arxiv.org/abs/2303.16749)；[github](https://github.com/nyu-mll/ILF-for-code-generation)
 - [StyleDiffusion](https://arxiv.org/abs/2303.15649) ：基于文本的编辑的提示嵌入反演
