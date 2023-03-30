@@ -1,5 +1,5 @@
 ## 更新日志：
-不定期整理首发在[加载大脑[[ ]]Loaded Brain](https://t.me/+R1X-kZUFpXpkM2M1)Telegram频道。
+不定期整理首发在[加载大脑[[ ]]Loaded Brain](https://t.me/+R1X-kZUFpXpkM2M1)的Telegram频道。
 
 **最后更新**：3月30日。
 
