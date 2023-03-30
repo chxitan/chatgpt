@@ -37,6 +37,10 @@
 - [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) ：通过连接基础模型和数百万 API 来完成任务
 - [GPT 正在成为图灵机](https://arxiv.org/abs/2303.14310)：这里有一些对其进行编程的方法
 - ChatGPT 是一个知识渊博但经验不足的求解器：大型语言模型中常识性问题的调查：[论文](https://arxiv.org/abs/2303.16421)
+- [AnnoLLM](https://arxiv.org/abs/2303.16854) ：使大型语言模型成为更好的众包注释器
+- [MaMMUT](https://arxiv.org/abs/2303.16839) ：一种用于多模态任务联合学习的简单架构
+- [使用大规模语言反馈训练语言模型](https://arxiv.org/abs/2303.16755)
+- [GPTEval](https://arxiv.org/abs/2303.16634) ：使用 GPT-4 进行 NLG 评估，具有更好的人类对齐
 
 ## GPT课程
 1. [GPT3 和微调核心目标函数——深入探讨](https://www.classcentral.com/classroom/youtube-gpt3-finetuning-the-core-objective-functions-a-deep-dive-126223)
